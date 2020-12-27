@@ -1,0 +1,6 @@
+use Test;
+use Tag::Reader;
+
+pass "replace me";
+
+done-testing;
